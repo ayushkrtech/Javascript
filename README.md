@@ -8,5 +8,23 @@ This repository offers a comprehensive collection of JavaScript code snippets an
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 📖 Topics Covered
+
+- **Basics**: Variables, Data Types, Operators, Functions
+- **Control Flow**: Conditional Statements (`if`, `switch`), Loops (`for`, `while`, `do-while`)
+- **Arrays & Objects**: Methods (`map`, `filter`, `reduce`), Object Manipulation
+- **DOM Manipulation**: Selecting Elements, Handling Events, Modifying Content
+- **Iterations**: Looping through data efficiently
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/javascript-essentials.git
+
 
