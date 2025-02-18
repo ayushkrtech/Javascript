@@ -25,9 +25,9 @@ This repository offers a comprehensive collection of JavaScript code snippets an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/javascript-essentials.git
+   git clone https://github.com/ayushkrtech/Javascript.git
 2. **Navigate into the folder**
-   '''bash
+   ```bash
    cd javascript-essentials
 3. Open in a code editor (VS Code recommended)
 4. Run JavaScript files using a browser console or Node.js
@@ -35,9 +35,15 @@ This repository offers a comprehensive collection of JavaScript code snippets an
 
 ## 📌 Contribution
  Contributions are welcome! To contribute:
-- 1. Fork the repository
-- 2. Create a new branch (feature-branch)
-- 3. Commit your changes
-- 4. Submit a Pull Request 🚀
+-  Fork the repository
+-  Create a new branch (feature-branch)
+-  Commit your changes
+-  Submit a Pull Request 🚀
 
+
+## 📜 License
+ This project is licensed under the MIT License – feel free to use and modify it.
+
+## 📞 Contact
+ For questions or suggestions, please open an issue or submit a pull request.
 
