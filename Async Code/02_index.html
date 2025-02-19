@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: black; color: aliceblue;">
+    <h1>Hello World</h1>
+    <button id="start">Start</button>
+    <button id="stop">Stop</button>
+</body>
+<script>
+    // const saydate = function(){
+    //     console.log("ayush" , Date.now())
+    // }
+    // setInterval(saydate,1000)
+    // const saydate = function(str){
+    //     console.log(str , Date.now())
+    // }
+    // const intervalid = setInterval(saydate,1000,"hello")
+    // clearInterval(intervalid)
+    document.querySelector('#start').addEventListener('click',function(){
+        setInterval(console.log("hi interval start"),1000)
+    })
+    document.querySelector("#stop").addEventListener('click',function(){
+        clearInterval(autointerval)
+    })
+</script>
+</html>
